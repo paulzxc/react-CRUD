@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Hello world!",
+      "description": "My first stream!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is a great stream.",
+      "id": 2
+    },
+    {
+      "title": "Hello my first stream",
+      "description": "This is my first stream via PATCH",
+      "userId": "109467118768942050357",
+      "id": 4
+    },
+    {
+      "title": "My Streaming Component Reuse!",
+      "description": "This change was made by a PATCH request",
+      "userId": "109467118768942050357",
+      "id": 7
+    },
+    {
+      "title": "Hello world",
+      "description": "First stream with after implementing delete function",
+      "userId": "102105906695111749012",
+      "id": 8
+    }
+  ]
+}
